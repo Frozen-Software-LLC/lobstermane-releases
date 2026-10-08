@@ -1,0 +1,7 @@
+{
+  "v": 1,
+  "kind": "lobstermane-release-log",
+  "repo": "Frozen-Software-LLC/lobstermane-releases",
+  "releases": "releases/<manifest sha256>.json",
+  "apps": "apps/<desktop|ios>/<manifest sha256>.json"
+}
