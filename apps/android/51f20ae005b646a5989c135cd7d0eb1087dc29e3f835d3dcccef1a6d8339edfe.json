@@ -1,0 +1,29 @@
+{
+  "v": 1,
+  "platform": "android",
+  "kind": "android",
+  "manifestSha256": "51f20ae005b646a5989c135cd7d0eb1087dc29e3f835d3dcccef1a6d8339edfe",
+  "commit": "8b96cd5107203ed458b2e56f4c6f69d55611bc31",
+  "repo": "Frozen-Software-LLC/ticketmane",
+  "ref": "refs/heads/main",
+  "runId": "40726426646",
+  "runAttempt": "1",
+  "tag": "android-v1.0.2-29886734",
+  "version": "1.0.2",
+  "buildNumber": "29886734",
+  "sourceCommit": "8b96cd5107203ed458b2e56f4c6f69d55611bc31",
+  "createdAt": "2026-10-28T16:29:38.228Z",
+  "artifacts": {
+    "LobsterMane-1.0.2-29886734.apk": {
+      "sha256": "00658c641353ae1f863b2ca1159aa4b569949126b4976f1bebdfbc594ac94954",
+      "bytes": 117592821
+    }
+  },
+  "manifest": "ewogICJ2IjogMSwKICAicGxhdGZvcm0iOiAiYW5kcm9pZCIsCiAgImtpbmQiOiAibG9ic3Rlcm1hbmUtYW5kcm9pZC1yZWxlYXNlIiwKICAicmVwbyI6ICJGcm96ZW4tU29mdHdhcmUtTExDL3RpY2tldG1hbmUiLAogICJyZWYiOiAicmVmcy9oZWFkcy9tYWluIiwKICAiY29tbWl0IjogIjhiOTZjZDUxMDcyMDNlZDQ1OGIyZTU2ZjRjNmY2OWQ1NTYxMWJjMzEiLAogICJjcmVhdGVkQXQiOiAiMjAyNi0xMC0yOFQxNjoyOTozOC4yMjhaIiwKICAid29ya2Zsb3ciOiB7CiAgICAicGF0aCI6ICIuZ2l0aHViL3dvcmtmbG93cy9hbmRyb2lkLXJlbGVhc2UueW1sIiwKICAgICJydW5JZCI6ICI0MDcyNjQyNjY0NiIsCiAgICAicnVuQXR0ZW1wdCI6ICIxIiwKICAgICJldmVudCI6ICJ3b3JrZmxvd19kaXNwYXRjaCIKICB9LAogICJ0YWciOiAiYW5kcm9pZC12MS4wLjItMjk4ODY3MzQiLAogICJhcHAiOiB7CiAgICAibmFtZSI6ICJMb2JzdGVyTWFuZSBmb3IgQW5kcm9pZCIsCiAgICAiYnVuZGxlSWQiOiAiY29tLmNhcmNyYWZ0ei5sb2JzdGVybWFuZSIsCiAgICAidmVyc2lvbiI6ICIxLjAuMiIsCiAgICAiYnVpbGROdW1iZXIiOiAiMjk4ODY3MzQiCiAgfSwKICAic291cmNlIjogewogICAgImNvbW1pdCI6ICI4Yjk2Y2Q1MTA3MjAzZWQ0NThiMmU1NmY0YzZmNjlkNTU2MTFiYzMxIiwKICAgICJvbk1haW4iOiB0cnVlLAogICAgImJ1aWxkZXIiOiAicmV2eWwiLAogICAgImJ1aWxkZXJSZWYiOiAiNDhmYzgzMTMtZDhjMi00YmY0LTg3Y2YtYmJjZjhjN2M0NjZkIiwKICAgICJmaW5nZXJwcmludCI6ICJjNGI4ZGYwNmMzNmNlMTdmYzgzNjYxODFkMWQ5OGYwNzZmNDIzZmU0ODlmZDAzZTU0Mjc3MDVjOTEyZTI3MjI1IgogIH0sCiAgInNpZ25pbmciOiB7CiAgICAiZGlzdHJpYnV0aW9uIjogImFuZHJvaWQtcmVsZWFzZSIsCiAgICAibm90YXJpemVkIjogZmFsc2UKICB9LAogICJhcnRpZmFjdHMiOiB7CiAgICAiTG9ic3Rlck1hbmUtMS4wLjItMjk4ODY3MzQuYXBrIjogewogICAgICAic2hhMjU2IjogIjAwNjU4YzY0MTM1M2FlMWY4NjNiMmNhMTE1OWFhNGI1Njk5NDkxMjZiNDk3NmYxYmViZGZiYzU5NGFjOTQ5NTQiLAogICAgICAiYnl0ZXMiOiAxMTc1OTI4MjEKICAgIH0KICB9LAogICJjb250ZW50cyI6IHsKICAgICIvYXNzZXRzL2luZGV4LmFuZHJvaWQuYnVuZGxlIjogIjM1NWE5OWQxMWQ3YmY2ZmU1NDdkNTEyZjU4ZmE4NmMxMmIzMmZhY2U5NWZkNTgxZDNmZjU3OTkyNzFkN2Q1MjciCiAgfQp9Cg==",
+  "signature": {
+    "v": 1,
+    "manifestSha256": "51f20ae005b646a5989c135cd7d0eb1087dc29e3f835d3dcccef1a6d8339edfe",
+    "keyId": "3da5 e028 b42e e390",
+    "sig": "yVOi2x9zyArwWtJGaNEQM2o7slwtoEd_JJWQuEjLOZu6rKDmcaLiVI-ZZBIGaGmLyfvoHedtacyS5Tyam6RwAg"
+  }
+}
