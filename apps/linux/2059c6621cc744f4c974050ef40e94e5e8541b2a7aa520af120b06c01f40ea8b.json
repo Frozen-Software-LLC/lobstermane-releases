@@ -1,0 +1,29 @@
+{
+  "v": 1,
+  "platform": "linux",
+  "kind": "linux",
+  "manifestSha256": "2059c6621cc744f4c974050ef40e94e5e8541b2a7aa520af120b06c01f40ea8b",
+  "commit": "514af5b50c757ff8f79c0d8d7d5a233a5b5180d6",
+  "repo": "Frozen-Software-LLC/ticketmane",
+  "ref": "refs/heads/main",
+  "runId": "44330875648",
+  "runAttempt": "1",
+  "tag": "linux-v0.1.4-514af5b",
+  "version": "0.1.4",
+  "buildNumber": null,
+  "sourceCommit": "514af5b50c757ff8f79c0d8d7d5a233a5b5180d6",
+  "createdAt": "2026-11-18T15:05:41.925Z",
+  "artifacts": {
+    "LobsterMane-0.1.4-linux-x86_64.rpm": {
+      "sha256": "f3f56e7f47423428e50fa86650d734265c53117670fa716614daa67d388473ef",
+      "bytes": 122851282
+    }
+  },
+  "manifest": "ewogICJ2IjogMSwKICAicGxhdGZvcm0iOiAibGludXgiLAogICJraW5kIjogImxvYnN0ZXJtYW5lLWxpbnV4LXJlbGVhc2UiLAogICJyZXBvIjogIkZyb3plbi1Tb2Z0d2FyZS1MTEMvdGlja2V0bWFuZSIsCiAgInJlZiI6ICJyZWZzL2hlYWRzL21haW4iLAogICJjb21taXQiOiAiNTE0YWY1YjUwYzc1N2ZmOGY3OWMwZDhkN2Q1YTIzM2E1YjUxODBkNiIsCiAgImNyZWF0ZWRBdCI6ICIyMDI2LTExLTE4VDE1OjA1OjQxLjkyNVoiLAogICJ3b3JrZmxvdyI6IHsKICAgICJwYXRoIjogIi5naXRodWIvd29ya2Zsb3dzL2Rlc2t0b3AtbGludXgtcmVsZWFzZS55bWwiLAogICAgInJ1bklkIjogIjQ0MzMwODc1NjQ4IiwKICAgICJydW5BdHRlbXB0IjogIjEiLAogICAgImV2ZW50IjogInB1c2giCiAgfSwKICAidGFnIjogImxpbnV4LXYwLjEuNC01MTRhZjViIiwKICAiYXBwIjogewogICAgIm5hbWUiOiAiTG9ic3Rlck1hbmUgZm9yIExpbnV4IiwKICAgICJidW5kbGVJZCI6ICJjb20uY2FyY3JhZnR6LmxvYnN0ZXJtYW5lLmRlc2t0b3AiLAogICAgInZlcnNpb24iOiAiMC4xLjQiLAogICAgImJ1aWxkTnVtYmVyIjogbnVsbAogIH0sCiAgInNvdXJjZSI6IHsKICAgICJjb21taXQiOiAiNTE0YWY1YjUwYzc1N2ZmOGY3OWMwZDhkN2Q1YTIzM2E1YjUxODBkNiIsCiAgICAib25NYWluIjogdHJ1ZSwKICAgICJidWlsZGVyIjogImdpdGh1Yi1hY3Rpb25zIiwKICAgICJidWlsZGVyUmVmIjogImFjdGlvbnMtcnVuOjQ0MzMwODc1NjQ4IiwKICAgICJmaW5nZXJwcmludCI6IG51bGwKICB9LAogICJzaWduaW5nIjogewogICAgImRpc3RyaWJ1dGlvbiI6ICJ1bnNpZ25lZCIsCiAgICAibm90YXJpemVkIjogZmFsc2UKICB9LAogICJhcnRpZmFjdHMiOiB7CiAgICAiTG9ic3Rlck1hbmUtMC4xLjQtbGludXgteDg2XzY0LnJwbSI6IHsKICAgICAgInNoYTI1NiI6ICJmM2Y1NmU3ZjQ3NDIzNDI4ZTUwZmE4NjY1MGQ3MzQyNjVjNTMxMTc2NzBmYTcxNjYxNGRhYTY3ZDM4ODQ3M2VmIiwKICAgICAgImJ5dGVzIjogMTIyODUxMjgyCiAgICB9CiAgfSwKICAiY29udGVudHMiOiB7fQp9Cg==",
+  "signature": {
+    "v": 1,
+    "manifestSha256": "2059c6621cc744f4c974050ef40e94e5e8541b2a7aa520af120b06c01f40ea8b",
+    "keyId": "3da5 e028 b42e e390",
+    "sig": "FT44ilDmKq6IsSPQ5rlQBIOplvCphGrt8_Rjcnm1BkXKSJUvtW1fA15Zz_c_WQYI9ulzu8IBOoZ-7syi3-iNCg"
+  }
+}
