@@ -1,0 +1,33 @@
+{
+  "v": 1,
+  "platform": "windows",
+  "kind": "windows",
+  "manifestSha256": "b19b50a29f34cc323de4628c5984bf69a62dc0846497026e5af05ce82ded329d",
+  "commit": "6d99a0ef7ea354fb068f5fa452fb8043fa380d1b",
+  "repo": "Frozen-Software-LLC/ticketmane",
+  "ref": "refs/heads/main",
+  "runId": "46127491547",
+  "runAttempt": "1",
+  "tag": "windows-v0.1.55-6d99a0e",
+  "version": "0.1.55",
+  "buildNumber": null,
+  "sourceCommit": "6d99a0ef7ea354fb068f5fa452fb8043fa380d1b",
+  "createdAt": "2026-11-28T08:52:48.531Z",
+  "artifacts": {
+    "LobsterMane-0.1.55-win-x64-setup-unsigned.exe": {
+      "sha256": "1edd50cd35719363195a91012a76df131ff2e8b3498e10552bb6c1165677a4ab",
+      "bytes": 110884999
+    },
+    "LobsterMane-0.1.55-win-x64-unsigned.zip": {
+      "sha256": "933e900fec7346f026bd41a823e6891e90bf18f9127ebdb4a6819f9bf43eb242",
+      "bytes": 153304467
+    }
+  },
+  "manifest": "ewogICJ2IjogMSwKICAicGxhdGZvcm0iOiAid2luZG93cyIsCiAgImtpbmQiOiAibG9ic3Rlcm1hbmUtd2luZG93cy1yZWxlYXNlIiwKICAicmVwbyI6ICJGcm96ZW4tU29mdHdhcmUtTExDL3RpY2tldG1hbmUiLAogICJyZWYiOiAicmVmcy9oZWFkcy9tYWluIiwKICAiY29tbWl0IjogIjZkOTlhMGVmN2VhMzU0ZmIwNjhmNWZhNDUyZmI4MDQzZmEzODBkMWIiLAogICJjcmVhdGVkQXQiOiAiMjAyNi0xMS0yOFQwODo1Mjo0OC41MzFaIiwKICAid29ya2Zsb3ciOiB7CiAgICAicGF0aCI6ICIuZ2l0aHViL3dvcmtmbG93cy9kZXNrdG9wLXdpbmRvd3MtcmVsZWFzZS55bWwiLAogICAgInJ1bklkIjogIjQ2MTI3NDkxNTQ3IiwKICAgICJydW5BdHRlbXB0IjogIjEiLAogICAgImV2ZW50IjogInB1c2giCiAgfSwKICAidGFnIjogIndpbmRvd3MtdjAuMS41NS02ZDk5YTBlIiwKICAiYXBwIjogewogICAgIm5hbWUiOiAiTG9ic3Rlck1hbmUgZm9yIFdpbmRvd3MiLAogICAgImJ1bmRsZUlkIjogImNvbS5jYXJjcmFmdHoubG9ic3Rlcm1hbmUuZGVza3RvcCIsCiAgICAidmVyc2lvbiI6ICIwLjEuNTUiLAogICAgImJ1aWxkTnVtYmVyIjogbnVsbAogIH0sCiAgInNvdXJjZSI6IHsKICAgICJjb21taXQiOiAiNmQ5OWEwZWY3ZWEzNTRmYjA2OGY1ZmE0NTJmYjgwNDNmYTM4MGQxYiIsCiAgICAib25NYWluIjogdHJ1ZSwKICAgICJidWlsZGVyIjogImdpdGh1Yi1hY3Rpb25zIiwKICAgICJidWlsZGVyUmVmIjogImFjdGlvbnMtcnVuOjQ2MTI3NDkxNTQ3IiwKICAgICJmaW5nZXJwcmludCI6IG51bGwKICB9LAogICJzaWduaW5nIjogewogICAgImRpc3RyaWJ1dGlvbiI6ICJ1bnNpZ25lZCIsCiAgICAibm90YXJpemVkIjogZmFsc2UKICB9LAogICJhcnRpZmFjdHMiOiB7CiAgICAiTG9ic3Rlck1hbmUtMC4xLjU1LXdpbi14NjQtc2V0dXAtdW5zaWduZWQuZXhlIjogewogICAgICAic2hhMjU2IjogIjFlZGQ1MGNkMzU3MTkzNjMxOTVhOTEwMTJhNzZkZjEzMWZmMmU4YjM0OThlMTA1NTJiYjZjMTE2NTY3N2E0YWIiLAogICAgICAiYnl0ZXMiOiAxMTA4ODQ5OTkKICAgIH0sCiAgICAiTG9ic3Rlck1hbmUtMC4xLjU1LXdpbi14NjQtdW5zaWduZWQuemlwIjogewogICAgICAic2hhMjU2IjogIjkzM2U5MDBmZWM3MzQ2ZjAyNmJkNDFhODIzZTY4OTFlOTBiZjE4ZjkxMjdlYmRiNGE2ODE5ZjliZjQzZWIyNDIiLAogICAgICAiYnl0ZXMiOiAxNTMzMDQ0NjcKICAgIH0KICB9LAogICJjb250ZW50cyI6IHt9Cn0K",
+  "signature": {
+    "v": 1,
+    "manifestSha256": "b19b50a29f34cc323de4628c5984bf69a62dc0846497026e5af05ce82ded329d",
+    "keyId": "3da5 e028 b42e e390",
+    "sig": "Nf-BzxctKhy4E9BexqKnvTD296l68MKagJs3pBOGJFg9b64R7-BbAVvmyng5SdcrUVzc6s4Ugu84wE_88j5YDA"
+  }
+}
